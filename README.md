@@ -1,3 +1,4 @@
+# Lab7Web
 # Tugas Pertanyaan
 - Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
 nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
@@ -9,7 +10,7 @@ berbeda-beda sesuai pilihan pekerjaan.
 - kekurangan disini yaitu saya belum bisa menyambungkan hasil dari datepickernya saat print, jadi saya menggunakan tanggal manual saat print
 - <img src=PHP/tugas.1.png>
 - <img src=PHP/tugas.png>
-# Lab7Web
+# Laporan Praktikum
 - Pertama Instal XAMPP lalu bual folder baru lab7_php_dasar pada direktori xampp/htdocs
 - Buat file bernama php_dasar.php lalu akses dengan menggunakan localhost/lab7_php_dasar/php_dasar.php
 # Kita coba membuat php sederhana seperti berikut
